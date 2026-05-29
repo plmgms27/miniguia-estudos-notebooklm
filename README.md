@@ -94,14 +94,14 @@ O objetivo do prompt foi entender, a partir do resultado da primeira pergunta, q
 ### Prompt utilizado
 
 ```text
-Considerando um investidor iniciante com conhecimento baixo no assunto e pouca verba para investir, qual seria o melhor investimento para começar entre renda fixa e FII's?
+Considerando um investidor iniciante com conhecimento baixo no assunto e pouca verba para investir, qual seria o melhor investimento para começar entre renda fixa e FIIs?
 ```
 
 ### Resultado Obtido
-Entre os dois tipos deinvestimentos estudados, sugeriu-se, como primeiro passo, iniciar pela Renda Fixa, que possui maior segurança e previsibilidade e são uma ótima alternativa para aprender como o mercado funciona.
+Entre os dois tipos de investimentos estudados, sugeriu-se, como primeiro passo, iniciar pela Renda Fixa, que possui maior segurança e previsibilidade e são uma ótima alternativa para aprender como o mercado funciona.
 
 ### Ajustes Realizados
-[EXPLICAR O QUE FOI MELHORADO]
+A partir dos resultados da segunda pergunta, partiu-se para entender o como investir nos melhores ativos em renda fixa, a melhor alternativa para iniciantes.
 
 ---
 
@@ -123,13 +123,13 @@ Como resultado, foi recomendado que os melhores investimentos são os que oferec
 Como ajuste final foi realizada uma última pergunta pedindo uma sugestão para um carteira de investimentos para iniciantes com investimentos iniciais de R$100, com aportes mensais de R$50 por 12 meses.
 
 ```text
-Considerando todos os investimentos citados, qual seria a melhor alternativa para quem quer começar investindo R$100 reais iniciais e depois aportar R$50 reais mensais por 12 meses. Considere risco, rentabilidade, liquidez e potencial de crescimento e que o investidor quer investir tanto em renda fixa quanto em FII's.
+Considerando todos os investimentos citados, qual seria a melhor alternativa para quem quer começar investindo R$100 reais iniciais e depois aportar R$50 reais mensais por 12 meses. Considere risco, rentabilidade, liquidez e potencial de crescimento e que o investidor quer investir tanto em renda fixa quanto em FIIs.
 ```
 
 ### Resultado Obtido
-Como resultado, foi realizado um "passo a passo" de como construir essa carteira, dividindo meio a meio os aportes mensais: 50% para renda fixa e 50% em FII's, além de indicações de carteiras de bancos com as melhores rentabilidades em renda fixa e dois FII's para iniciar. Foi sugerido que o foco precisa ser consistência para acumular reserva na renda fixa e reinvestir cada centavo de dividendo dos FIIs para acelerar o processo.
+Como resultado, foi realizado um "passo a passo" de como construir essa carteira, dividindo meio a meio os aportes mensais: 50% para renda fixa e 50% em FIIs, além de indicações de carteiras de bancos com as melhores rentabilidades em renda fixa e dois FII's para iniciar. Foi sugerido que o foco precisa ser consistência para acumular reserva na renda fixa e reinvestir cada centavo de dividendo dos FIIs para acelerar o processo.
 
-## Destaques identificados
+## Insights Obtidos
 
 Durante os testes, a plataforma respondeu perfeitamente às dúvidas e sugeriu caminhos viáveis considerando que quem está perguntando é uma iniciante em investimentos. Entre os destaques identificados estão:
 
@@ -161,7 +161,7 @@ Enquanto a Renda Fixa funciona como um empréstimo que você faz a uma institui�
 | Renda Fixa | Categoria onde as regras de rendimento são definidas no momento da aplicação; o investidor "empresta" dinheiro para receber juros |
 | Renda Variável | Investimentos cujo retorno não pode ser previsto e o valor aplicado pode oscilar para cima ou para baixo |
 | Fundos Imobiliários (FIIs) | Condomínios de investidores que reúnem recursos para aplicar no setor imobiliário (imóveis físicos ou títulos de dívida) |
-| Liquidez | Estratégia de distribuir o dinheiro em diferentes tipos de ativos e setores para minimizar riscos de perdas |
+| Liquidez | Facilidade e rapidez com que um investimento pode ser transformado em dinheiro sem perdas significativas de valor |
 | Reserva de Emergência | Valor guardado para cobrir imprevistos, que deve estar em ativos seguros e de fácil resgate |
 | Marcação a Mercado | Atualização diária do preço de um título de renda fixa; se você resgatar antes do prazo, pode receber mais ou menos do que o contratado |
 
@@ -224,7 +224,7 @@ A utilização da IA durante o projeto contribuiu para:
 - Organizar informações
 - Facilitar revisões futuras
 - Estruturar o conhecimento de forma mais clara
-- Estruturar o Read.me com a ajuda do chatGPT.
+- Estruturar o README no gitHub com a ajuda do chatGPT.
 - Atuação como parceira de estudos e na revisão do projeto.
 
 Além disso, o projeto demonstrou a importância da engenharia de prompts para obter respostas mais relevantes e contextualizadas, além de sugestões/indicações para um iniciante em investimentos.
@@ -235,7 +235,17 @@ Além disso, o projeto demonstrou a importância da engenharia de prompts para o
 
 Este projeto permitiu explorar o uso da Inteligência Artificial como ferramenta de apoio aos estudos, combinando pesquisa, organização do conhecimento e pensamento crítico.
 
-A experiência também contribuiu para o desenvolvimento de habilidades relacionadas à engenharia de prompts, curadoria de informações e documentação técnica, além de servir para uso na vida real da autora
+A experiência também contribuiu para o desenvolvimento de habilidades relacionadas à engenharia de prompts, curadoria de informações e documentação técnica, além de servir como apoio prático para decisões futuras de investimento da autora.
+
+---
+
+# 💡 Principais Aprendizados
+
+- Investir não exige grandes quantias iniciais.
+- A disciplina nos aportes é mais importante que tentar encontrar o investimento perfeito.
+- A renda fixa é uma porta de entrada importante para quem está começando.
+- Os FIIs podem complementar a carteira com potencial de geração de renda passiva.
+- A qualidade dos prompts influencia diretamente a profundidade das respostas geradas pela IA.
 
 ---
 
